@@ -1,0 +1,24 @@
+.m-cd{
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+}
+
+.usr{
+    margin-left: auto;
+    text-align: left !important;
+}
+
+.userCard{
+    padding: 0;
+    background-color: #0b81ff !important;
+}
+
+.guestCard{
+    background-color: #e9e9eb !important;
+}
+
+.pd{
+    padding: 10px !important;
+    font-size: 12px;
+}
